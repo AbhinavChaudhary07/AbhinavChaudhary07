@@ -1,12 +1,12 @@
-```bash
-$ whoami
-Abhinav Chaudhary
+### Hi there, I'm Abhinav Chaudhary 👋
 
-$ cat role.txt
-Full Stack Developer
+**Full Stack Developer**
 
-$ ls ./skills
-```
+### Connect with me
+
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/AbhinavChaudhary07) [<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:abhinavch96@gmail.com) [<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/_.abhinav23)
+
+### Tech Stack
 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -21,17 +21,8 @@ $ ls ./skills
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
 
-```bash
-$ cat contact.txt
-```
+### 📊 Engineering Metrics
 
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/AbhinavChaudhary07) [<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:abhinavch96@gmail.com) [<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/_.abhinav23)
-
-```bash
-$ ./run-stats.sh
-```
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhinavChaudhary07&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinavChaudhary07&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavChaudhary07&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
