@@ -16,12 +16,3 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
 
-### 📊 Engineering Metrics
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinavChaudhary07&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavChaudhary07&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavChaudhary07&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-
-<img src="https://komarev.com/ghpvc/?username=AbhinavChaudhary07&color=11d452&style=for-the-badge" alt="Visitor Badge" />
